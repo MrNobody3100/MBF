@@ -1,1 +1,2 @@
-window.MB_CONFIG={url:'',key:''}; // Supabase > Project Settings > API : Project URL + anon public key
+// Clé ANON uniquement (Supabase > Project Settings > API > anon public). Jamais la clé service_role.
+window.MB_CONFIG={url:'https://gzdcnealrvjubzhhzpns.supabase.co',key:'COLLER_ICI_LA_CLE_ANON'};
